@@ -1,6 +1,6 @@
 # Awesome-Indirect-Tax-Compliance
 
-# Top Indirect Tax Compliance Tools Ecosystem
+## Top Indirect Tax Compliance Tools Ecosystem
 **Curated List of SaaS Products & Open-Source GitHub Projects**
 *Focused on Sales Tax, VAT, GST Determination, Calculation, Nexus Monitoring, Filing, Remittance & Multi-Jurisdiction Compliance*
 **Last updated: August 2026**
