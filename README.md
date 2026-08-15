@@ -20,26 +20,24 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - [Disclaimer](#disclaimer)
 
 ## SaaS/Hosted Platforms
-- **[Avalara](https://www.avalara.com/)**  
-  Leading global tax compliance platform providing real-time sales tax, VAT, and GST calculation, determination, filing, and content management across thousands of jurisdictions.
-- **[Vertex](https://www.vertexinc.com/)**  
-  Enterprise indirect tax determination and compliance solution with deep ERP integrations (SAP, Oracle, etc.) and strong multi-jurisdictional coverage.
-- **[Sovos](https://sovos.com/)**  
-  Global tax and regulatory compliance platform covering VAT, GST, e-invoicing, and related indirect tax obligations for multinationals.
-- **[ONESOURCE Indirect Tax](https://tax.thomsonreuters.com/)** (Thomson Reuters)  
-  Enterprise tax determination and compliance suite used by large organizations for complex indirect tax requirements.
-- **[ClearTax Enterprise](https://cleartax.in/)**  
-  Strong presence in India and expanding markets for GST and related compliance automation.
-- **[TaxJar](https://www.taxjar.com/)** (Stripe)  
-  Popular sales tax automation platform for e-commerce and online sellers, covering calculation, reporting, and filing (especially US-focused).
-- **[Anrok](https://www.anrok.com/)**  
-  Modern sales tax compliance platform built for SaaS and digital businesses, emphasizing automated nexus, calculation, and filing.
-- **[Blue dot](https://www.bluedot.global/)** / **[Taxually](https://www.taxually.com/)** / **[Complyt](https://complyt.io/)**  
-  Specialized platforms focused on VAT/GST automation, cross-border compliance, and digital services tax for international sellers.
-- **[Stripe Tax](https://stripe.com/tax)**, **[Quaderno](https://quaderno.io/)**, **[Fonoa](https://www.fonoa.com/)**, **[Numeral](https://www.numeralhq.com/)**  
-  Additional modern calculation and compliance tools frequently used by digital and e-commerce businesses.
-- **[TaxCloud](https://taxcloud.com/)** and SST-oriented providers  
-  Options leveraging Streamlined Sales Tax (SST) for US multi-state compliance.
+
+| Product | Description | Starting Price | Free Tier / Trial Limit |
+|---------|-------------|----------------|-------------------------|
+| **[Avalara](https://www.avalara.com/)** | Leading global tax compliance platform providing real-time sales tax, VAT, and GST calculation, determination, filing, and content management across thousands of jurisdictions. | Starts at ~$8,000/year (estimated base) | 90-day free developer API trial (capped at 1,000 transactions/day) |
+| **[Vertex](https://www.vertexinc.com/)** | Enterprise indirect tax determination and compliance solution with deep ERP integrations (SAP, Oracle, etc.) and strong multi-jurisdictional coverage. | Starts at ~$5,000/year (estimated base) | 0 days free trial (demo only) |
+| **[Sovos](https://sovos.com/)** | Global tax and regulatory compliance platform covering VAT, GST, e-invoicing, and related indirect tax obligations for multinationals. | Starts at ~$50,000/year (estimated enterprise contract) | 7-day free trial (ReportMyUP module only) |
+| **[ONESOURCE Indirect Tax](https://tax.thomsonreuters.com/)** | Enterprise tax determination and compliance suite used by large organizations for complex indirect tax requirements. | Starts at ~$50,000/year (estimated enterprise contract) | 0 days free trial (demo only) |
+| **[ClearTax Enterprise](https://cleartax.in/)** | Strong presence in India and expanding markets for GST and related compliance automation. | Starts at ₹799/year (Retail) or ₹10,000/year (Pro) | 30-day free trial |
+| **[TaxJar](https://www.taxjar.com/)** | Popular sales tax automation platform for e-commerce and online sellers, covering calculation, reporting, and filing (especially US-focused). | Starts at $39/month | 30-day free trial (no credit card required) |
+| **[Anrok](https://www.anrok.com/)** | Modern sales tax compliance platform built for SaaS and digital businesses, emphasizing automated nexus, calculation, and filing. | Platform fee + ~$50–$100 per market/month | 7-day free trial (for specific CRM integrations) |
+| **[Blue dot](https://www.bluedot.global/)** | Specialized platforms focused on VAT/GST automation, cross-border compliance, and digital services tax for international sellers. | Estimated $10,000+/year (Enterprise custom) | 0 days free trial (demo only) |
+| **[Taxually](https://www.taxually.com/)** | Specialized platforms focused on VAT/GST automation, cross-border compliance, and digital services tax for international sellers. | Estimated $5,000+/year (Enterprise custom) | 0 days free trial (demo only) |
+| **[Complyt](https://complyt.io/)** | Specialized platforms focused on VAT/GST automation, cross-border compliance, and digital services tax for international sellers. | Estimated $5,000+/year (Enterprise custom) | 0 days free trial (demo only) |
+| **[Stripe Tax](https://stripe.com/tax)** | Additional modern calculation and compliance tools frequently used by digital and e-commerce businesses. | Starts at $90/month (or 0.5% per transaction) | 0 days free trial (pay-as-you-go available) |
+| **[Quaderno](https://quaderno.io/)** | Additional modern calculation and compliance tools frequently used by digital and e-commerce businesses. | Starts at $29/month (supports 25 transactions) | 7-day free trial |
+| **[Fonoa](https://www.fonoa.com/)** | Additional modern calculation and compliance tools frequently used by digital and e-commerce businesses. | Estimated $10,000+/year (Enterprise custom) | 0 days free trial (demo only) |
+| **[Numeral](https://www.numeralhq.com/)** | Additional modern calculation and compliance tools frequently used by digital and e-commerce businesses. | Starts at $75 per state filing | Unlimited free monitoring plan (tracking only, 0 free filings) |
+| **[TaxCloud](https://taxcloud.com/)** | Options leveraging Streamlined Sales Tax (SST) for US multi-state compliance. | Starts at $199/month | 30-day free trial (Premium Tier access, excludes filing) |
 
 ## Open-Source GitHub Projects
 - **[OpenSalesTax](https://github.com/ejosterberg/open-sales-tax)**  
